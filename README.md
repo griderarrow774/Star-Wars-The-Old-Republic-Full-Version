@@ -246,3 +246,6 @@ This repository serves as the official landing page for Star Wars: The Old Repub
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Star Wars: The Old Republic today!**
+
+---
+**Last updated:** 2026-09-09 23:53:46 UTC
