@@ -248,4 +248,4 @@ This repository serves as the official landing page for Star Wars: The Old Repub
 **Get the most recent version of Star Wars: The Old Republic today!**
 
 ---
-**Last updated:** 2026-10-10 06:47:11 UTC
+**Last updated:** 2026-10-10 13:23:01 UTC
